@@ -1,0 +1,7 @@
+Ignora o arquivo de log gerado pelos scripts
+
+SuporTech_NetworkTools_Log.txt
+
+Ignora arquivos temporários do Windows
+
+*.tmp *.log Thumbs.db desktop.ini
